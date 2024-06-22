@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "vuepress": "^1.9.10"
+  },
+  "scripts": {
+    "start": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "dependencies": {
+    "moment": "^2.30.1",
+    "vuepress-plugin-helper-live2d": "^1.0.2",
+    "vuepress-theme-antdocs": "^1.4.6"
+  }
+}
